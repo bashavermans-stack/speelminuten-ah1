@@ -1,0 +1,11 @@
+# Persoonsgegevens (namen + minuten) nooit online zetten
+Data_in_een_programmatje/
+data/
+import/controlerapport.md
+import/aliassen_spelers.csv
+
+# Build en afhankelijkheden
+app/node_modules/
+app/dist/
+app/dev-dist/
+__pycache__/
