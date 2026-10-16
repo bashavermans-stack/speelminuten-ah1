@@ -23,7 +23,9 @@ Dit maakt `data/voetbal-data.json` en `import/controlerapport.md`. Het rapport c
 
 ## 2. De app op de telefoon zetten
 
-De app moet één keer op een webadres staan (gratis via GitHub Pages):
+**De app staat online op <https://bashavermans-stack.github.io/speelminuten-ah1/>** (repository: <https://github.com/bashavermans-stack/speelminuten-ah1>). Ga verder bij stap 3 hieronder.
+
+Zo is dat ingericht (gratis via GitHub Pages):
 
 1. Maak een (openbare) repository op GitHub en push deze map. Speler-data, Excels en het rapport worden **niet** meegestuurd (zie `.gitignore`).
 2. Zet in de repository bij *Settings → Pages* de bron op **GitHub Actions**. De workflow `.github/workflows/publiceer.yml` bouwt en publiceert de app bij elke push.
